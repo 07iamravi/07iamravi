@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rabikishan Rauniyar</h1>
 <h3 align="center">A self with own mindset.</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=rabikishanr&label=Profile%20views&color=0e75b6&style=flat" alt="rabikishanr" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=07iamravi&label=Profile%20views&color=0e75b6&style=flat" alt="07iamravi" /> </p>
 <img src='https://cdn.dribbble.com/users/720825/screenshots/3253310/slim-jim-_dribbble_-_800x600_.gif' align="center" />
 - 🔭 I’m currently working on **Hacking Projects**
 
@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
-<a href="https://twitter.com/rabikishanrauni1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rabikishanrauni1" height="30" width="40" /></a>
+<a href="https://twitter.com/07iamraviauni1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="07iamraviauni1" height="30" width="40" /></a>
 <a href="https://fb.com/rabikishan111" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rabikishan111" height="30" width="40" /></a>
 <a href="https://instagram.com/rabikishan.rauniyar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rabikishan.rauniyar" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/@techieravi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@techieravi" height="30" width="40" /></a>
@@ -25,8 +25,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/rabikishan"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="rabikishan" /></a></p><br><br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rabikishanr&show_icons=true&locale=en&layout=compact" alt="rabikishanr" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=07iamravi&show_icons=true&locale=en&layout=compact" alt="07iamravi" /></p>
 <br><br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rabikishanr&show_icons=true&locale=en" alt="rabikishanr" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=07iamravi&show_icons=true&locale=en" alt="07iamravi" /></p>
 <br><br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rabikishanr&" alt="rabikishanr" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=07iamravi&" alt="07iamravi" /></p>
