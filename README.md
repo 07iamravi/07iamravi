@@ -1,32 +1,74 @@
-<h1 align="center">Hi 👋, I'm Rabikishan Rauniyar</h1>
-<h3 align="center">A self with own mindset.</h3>
+# Hi — I'm **Rabi Kishan Rauniyar** (07iamravi) 👋  
+**Security Analyst | Ethical Hacker | Python & Kali**
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=07iamravi&label=Profile%20views&color=0e75b6&style=flat" alt="07iamravi" /> </p>
-<img src='https://cdn.dribbble.com/users/720825/screenshots/3253310/slim-jim-_dribbble_-_800x600_.gif' align="center" />
-- 🔭 I’m currently working on **Hacking Projects**
+> Breaking things to make them safer. I automate, audit, and write PoCs — always with permission.
 
-- 🌱 I’m currently learning **Different HACKING Techniques**
+---
 
-- 💬 Ask me about **Cyber-security**
+## 🔭 About me
+- Primary focus: **Offensive security**, pentesting, automation with **Python**, and Kali tooling.  
+- I practice in labs, CTFs, and authorized engagements only.  
+- 18 | Nepal | Open to collaborations on legit audits & bug bounties.
 
-- ⚡ Fun fact **Mistakes can also turn into your supporters in the future**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="center">
-<a href="https://twitter.com/07iamraviauni1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="07iamraviauni1" height="30" width="40" /></a>
-<a href="https://www.facebook.com/07.im.ravi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="07.im.ravi" height="30" width="40" /></a>
-<a href="https://www.instagram.com/07_i.am_ravi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="07_i.am_ravi" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@techieravi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@techieravi" height="30" width="40" /></a>
-</p>
+## 🧰 Tools & Knowledge 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="center"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://quasar.dev/" target="_blank" rel="noreferrer"> <img src="https://cdn.quasar.dev/logo/svg/quasar-logo.svg" alt="quasar" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+<!-- Row 1 -->
+[![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
+[![Kali Linux](https://img.shields.io/badge/-Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)](https://www.kali.org)
+[![Nmap](https://img.shields.io/badge/-Nmap-6DB33F?style=for-the-badge&logo=nmap&logoColor=white)](https://nmap.org)
+[![Metasploit](https://img.shields.io/badge/-Metasploit-353535?style=for-the-badge&logo=metasploit&logoColor=white)](https://www.metasploit.com)
+[![Burp Suite](https://img.shields.io/badge/-Burp_Suite-6C2A2A?style=for-the-badge&logo=port-swigger&logoColor=white)](https://portswigger.net/burp)
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/rabikishan"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="rabikishan" /></a></p><br><br>
+<!-- Row 2 -->
+[![sqlmap](https://img.shields.io/badge/-sqlmap-1D1D1B?style=for-the-badge&logo=sqlite&logoColor=white)](https://sqlmap.org)
+[![Wireshark](https://img.shields.io/badge/-Wireshark-0080FF?style=for-the-badge&logo=wireshark&logoColor=white)](https://www.wireshark.org)
+[![Hashcat](https://img.shields.io/badge/-Hashcat-3B3B3B?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashcat.net/hashcat/)
+[![John the Ripper](https://img.shields.io/badge/-John_the_Ripper-000000?style=for-the-badge&logo=gnu&logoColor=white)](https://www.openwall.com/john/)
+[![Aircrack-ng](https://img.shields.io/badge/-Aircrack-ng-0C2D48?style=for-the-badge&logo=airplayaudio&logoColor=white)](https://www.aircrack-ng.org)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=07iamravi&show_icons=true&locale=en&layout=compact" alt="07iamravi" /></p>
-<br><br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=07iamravi&show_icons=true&locale=en" alt="07iamravi" /></p>
-<br><br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=07iamravi&" alt="07iamravi" /></p>
+<!-- Row 3 -->
+[![Gobuster](https://img.shields.io/badge/-Gobuster-2B2B2B?style=for-the-badge&logo=git&logoColor=white)](https://github.com/OJ/gobuster)
+[![Nikto](https://img.shields.io/badge/-Nikto-4A4A4A?style=for-the-badge&logo=apache&logoColor=white)](https://cirt.net/Nikto2)
+[![Amass](https://img.shields.io/badge/-Amass-0B3D91?style=for-the-badge&logo=discourse&logoColor=white)](https://github.com/OWASP/Amass)
+[![Subfinder](https://img.shields.io/badge/-Subfinder-0E6EB8?style=for-the-badge&logo=mozilla&logoColor=white)](https://github.com/projectdiscovery/subfinder)
+[![Bettercap](https://img.shields.io/badge/-Bettercap-262626?style=for-the-badge&logo=linux&logoColor=white)](https://www.bettercap.org)
+
+<!-- Row 4 -->
+[![Hydra](https://img.shields.io/badge/-Hydra-262626?style=for-the-badge&logo=hydra&logoColor=white)](https://github.com/vanhauser-thc/thc-hydra)
+[![SET](https://img.shields.io/badge/-SET-3B3B3B?style=for-the-badge&logo=shield&logoColor=white)](https://github.com/trustedsec/social-engineer-toolkit)
+[![Ghidra](https://img.shields.io/badge/-Ghidra-6A6A6A?style=for-the-badge&logo=ghack&logoColor=white)](https://ghidra-sre.org)
+[![radare2](https://img.shields.io/badge/-radare2-0F0F0F?style=for-the-badge&logo=radare&logoColor=white)](https://rada.re/n/)
+[![Volatility](https://img.shields.io/badge/-Volatility-273746?style=for-the-badge&logo=memory&logoColor=white)](https://www.volatilityfoundation.org)
+
+---
+
+## 📊 GitHub stats
+<!-- GitHub stats card (replace username if needed) -->
+![Ravi's GitHub stats](https://github-readme-stats.vercel.app/api?username=07iamravi&show_icons=true&theme=radical)
+
+---
+
+## 🧪 Projects / Examples
+- `ThisIsNotRat` — lab PoC (research use only).  
+- `x-crypter` — script obfuscation/research (lab).  
+- `x-zone` — social engineering awareness (educational).
+
+(See repos for more details; all real-world testing done with explicit permission.)
+
+---
+
+## ⚖️ Ethics — essential
+I practice **ethical hacking only**:
+1. Only test systems you own or have **explicit written permission** to test.  
+2. Use lab environments / CTFs for experiments.  
+3. Report findings responsibly to owners and follow disclosure policies.
+
+---
+
+## 📫 Contact / links
+- GitHub: https://github.com/07iamravi  
+- YouTube : @techieravi
+
+---
