@@ -12,7 +12,7 @@
 
 * Focused on **offensive security**, pentesting, automation with **Python**, and Kali tooling.
 * Practice in labs, CTFs, and authorized engagements only.
-* 18 | Nepal | Open to collaborations on legit audits & bug bounties.
+* 19 | Nepal | Open to collaborations on legit audits & bug bounties.
 
 ---
 
